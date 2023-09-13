@@ -50,7 +50,7 @@ export function App() {
             prompt para adicionar o conteúdo da transcrição do vídeo selecionado
           </p>
         </div>
-        <aside className="w-80">
+        <aside className="w-80 space-y-6">
           <form className=" space-y-6">
             <label
               htmlFor="video"
